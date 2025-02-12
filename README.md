@@ -3,6 +3,6 @@
 ## Work Experience
 
 ## Education
-![NFU Logo](assets/NFU Logo.jpg)
+![NFU-Logo](assets/NFU Logo.jpg)
 
 ## Projects
